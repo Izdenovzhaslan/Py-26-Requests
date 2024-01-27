@@ -1,0 +1,14 @@
+User Id: 1
+Post Id: 8
+Title: dolorem dolore est ipsam
+"Post Text: dignissimos aperiam dolorem qui eum
+facilis quibusdam animi sint suscipit qui sint possimus cum
+quaerat magni maiores excepturi
+ipsam ut commodi dolor voluptatum modi aut vitae"
+User Id: 1
+Post Id: 8
+Title: dolorem dolore est ipsam
+"Post Text: dignissimos aperiam dolorem qui eum
+facilis quibusdam animi sint suscipit qui sint possimus cum
+quaerat magni maiores excepturi
+ipsam ut commodi dolor voluptatum modi aut vitae"

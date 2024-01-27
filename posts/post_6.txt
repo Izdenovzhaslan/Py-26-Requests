@@ -1,0 +1,14 @@
+User Id: 1
+Post Id: 6
+Title: dolorem eum magni eos aperiam quia
+"Post Text: ut aspernatur corporis harum nihil quis provident sequi
+mollitia nobis aliquid molestiae
+perspiciatis et ea nemo ab reprehenderit accusantium quas
+voluptate dolores velit et doloremque molestiae"
+User Id: 1
+Post Id: 6
+Title: dolorem eum magni eos aperiam quia
+"Post Text: ut aspernatur corporis harum nihil quis provident sequi
+mollitia nobis aliquid molestiae
+perspiciatis et ea nemo ab reprehenderit accusantium quas
+voluptate dolores velit et doloremque molestiae"

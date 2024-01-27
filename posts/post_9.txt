@@ -1,0 +1,14 @@
+User Id: 1
+Post Id: 9
+Title: nesciunt iure omnis dolorem tempora et accusantium
+"Post Text: consectetur animi nesciunt iure dolore
+enim quia ad
+veniam autem ut quam aut nobis
+et est aut quod aut provident voluptas autem voluptas"
+User Id: 1
+Post Id: 9
+Title: nesciunt iure omnis dolorem tempora et accusantium
+"Post Text: consectetur animi nesciunt iure dolore
+enim quia ad
+veniam autem ut quam aut nobis
+et est aut quod aut provident voluptas autem voluptas"
