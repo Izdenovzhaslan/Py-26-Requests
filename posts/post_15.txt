@@ -1,7 +1,0 @@
-User Id: 2
-Post Id: 15
-Title: eveniet quod temporibus
-"Post Text: reprehenderit quos placeat
-velit minima officia dolores impedit repudiandae molestiae nam
-voluptas recusandae quis delectus
-officiis harum fugiat vitae"
