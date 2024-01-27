@@ -1,0 +1,14 @@
+User Id: 2
+Post Id: 11
+Title: et ea vero quia laudantium autem
+"Post Text: delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus
+accusamus in eum beatae sit
+vel qui neque voluptates ut commodi qui incidunt
+ut animi commodi"
+User Id: 2
+Post Id: 11
+Title: et ea vero quia laudantium autem
+"Post Text: delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus
+accusamus in eum beatae sit
+vel qui neque voluptates ut commodi qui incidunt
+ut animi commodi"
